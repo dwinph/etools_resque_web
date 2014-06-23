@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:dwinph/resque-web.git
+  remote: https://github.com/dwinph/resque-web.git
   revision: 7091a8f0b200e08dae827d37ad593f3fcd6fa5cd
   specs:
     resque-web (0.0.6)
