@@ -27,4 +27,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 gem 'resque'
-gem 'resque-web', require: 'resque_web', git: 'git@github.com:dwinph/resque-web.git'
+gem 'resque-web', require: 'resque_web', git: 'https://github.com/dwinph/resque-web.git'
